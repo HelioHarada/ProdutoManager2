@@ -13132,11 +13132,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lab\\Downloads\\ProdutoManager-20180222T223624Z-001\\ProdutoManager\\ProdutoManager\\ProdutoManager.csproj",
+      "projectUniqueName": "E:\\ProdutoManager2\\ProdutoManager.csproj",
       "projectName": "ProdutoManager",
-      "projectPath": "C:\\Users\\Lab\\Downloads\\ProdutoManager-20180222T223624Z-001\\ProdutoManager\\ProdutoManager\\ProdutoManager.csproj",
+      "projectPath": "E:\\ProdutoManager2\\ProdutoManager.csproj",
       "packagesPath": "C:\\Users\\Lab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lab\\Downloads\\ProdutoManager-20180222T223624Z-001\\ProdutoManager\\ProdutoManager\\obj\\",
+      "outputPath": "E:\\ProdutoManager2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
